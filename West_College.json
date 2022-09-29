@@ -1,0 +1,112 @@
+[
+    { 
+        "id": 1, 
+        "first_name": Equine, 
+        "last_name": Ducklings, 
+        "university": Indiana University Purdue University Indianapolis,
+        "coast": West
+    },
+    { 
+        "id": 2, 
+        "first_name": Dahistorius, 
+        "last_name": Lamystorius, 
+        "university": Utah State University,
+        "coast": West
+    },
+    { 
+        "id": 3, 
+        "first_name": Ewonkoniad, 
+        "last_name": Sigourneth JuniorStein, 
+        "university": Oklahoma State University,
+        "coast": West
+    },
+
+    { 
+        "id": 4, 
+        "first_name": Eqqsnuizitine, 
+        "last_name": Buble-Schwinslow , 
+        "university": University of Nabraska,
+        "coast": West
+    },
+    { 
+        "id": 5, 
+        "first_name": Huka'lakanaka, 
+        "last_name": Hakanakaheekalucka'hukahkafaka, 
+        "university": University of Hawaii,
+        "coast": West
+    },
+    { 
+        "id": 6, 
+        "first_name": King Prince, 
+        "last_name": Chambermaid, 
+        "university": Baylor University,
+        "coast": West
+    },
+    { 
+        "id": 7, 
+        "first_name": Ladennifer, 
+        "last_name": Jadaniston, 
+        "university": University of Colorado,
+        "coast": West
+    },
+    { 
+        "id": 8, 
+        "first_name": Ladadadaladadadadada, 
+        "last_name": Dala-Dadaladaladalada, 
+        "university": University of Arizona,
+        "coast": West
+    },
+    { 
+        "id": 9, 
+        "first_name": Harvard, 
+        "last_name": University, 
+        "university": DeVry University,
+        "coast": West
+    },
+    { 
+        "id": 10, 
+        "first_name": Morse, 
+        "last_name": Code, 
+        "university": Army Navy Surplus Store,
+        "coast": West
+    },
+    { 
+        "id": 11, 
+        "first_name": Wingdings, 
+        "university": Online Classes,
+        "coast": West
+    },
+    { 
+        "id": 12, 
+        "first_name": Firstname, 
+        "last_name": Lastname, 
+        "university": College University,
+        "coast": West
+    },
+    { 
+        "id": 13, 
+        "first_name": God, 
+        "university": Home Schooled,
+        "coast": West
+    },
+    { 
+        "id": 14, 
+        "first_name": Squeeeeeeeeeeps, 
+        "university": Santa Monica College,
+        "coast": West
+    },
+    { 
+        "id": 14,
+        "first_name": Benedict, 
+        "last_name": Cumberbatch, 
+        "university": Oxford University,
+        "coast": West
+    },
+    { 
+        "id": 15, 
+        "first_name": A.A. Ron, 
+        "last_name": Balakay, 
+        "university": Morehouse College,
+        "coast": West
+    }
+]
