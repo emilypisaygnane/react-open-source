@@ -1,0 +1,222 @@
+[
+    { 
+        "id": 1,
+        "first_name": "Coznesster",
+        "last_name": "Smiff", 
+        "university": "Rutgers University",
+        "coast": "East"
+    },
+    { 
+        "id": 2, 
+        "first_name": "Elipses",
+        "last_name": "Corter", 
+        "university": "University of Alabama",
+        "coast": "East"
+    },
+    { 
+        "id": 3, 
+        "first_name": "Nyquillus",
+        "last_name": "Dillwad", 
+        "university": "LSU",
+        "coast": "East"
+    },
+    { 
+        "id": 4, 
+        "first_name": "Bismo",
+        "last_name": "Funyuns", 
+        "university": "Florida State University",
+        "coast": "East"
+    },
+    { 
+        "id": 5, 
+        "first_name": "Decatholac",
+        "last_name": "Mango", 
+        "university": "Georgia Tech University",
+        "coast": "East"
+    },
+    { 
+        "id": 6, 
+        "first_name": "Mergatroid",
+        "last_name": "Skittle", 
+        "university": "University of Louisville",
+        "coast": "East"
+    },
+    { 
+        "id": 7,
+        "first_name": "Quiznatodd",
+        "last_name": "Bidness", 
+        "university": "University of Tennessee",
+        "coast": "East"
+    },
+    { 
+        "id": 8,
+        "first_name": "D'Pez",
+        "last_name": "Poopsie", 
+        "university": "Ol' Miss University",
+        "coast": "East"
+    },
+    { 
+        "id": 9,
+        "first_name": "Quackadilly",
+        "last_name": "Blip", 
+        "university": "Auburn University",
+        "coast": "East"
+    },
+    { 
+        "id": 10, 
+        "first_name": "Goolius",
+        "last_name": "Boozler", 
+        "university": "The U",
+        "coast": "East"
+    },
+    { 
+        "id": 11, 
+        "first_name": "Bisquiteen",
+        "last_name": "Trisket", 
+        "university": "University of Michigan",
+        "coast": "East"
+    },
+    { 
+        "id": 12, 
+        "first_name": "Fartrell",
+        "last_name": "Cluggins", 
+        "university": "Arkansas University",
+        "coast": "East"
+    },
+    { 
+        "id": 13, 
+        "first_name": "Blyrone",
+        "last_name": "Blashinton", 
+        "university": "Syracuse University",
+        "coast": "East"
+    },
+    { 
+        "id": 14, 
+        "first_name": "Cartoons",
+        "last_name": "Plural", 
+        "university": "Virginia Tech University",
+        "coast": "East"
+    },
+    { 
+        "id": 15, 
+        "first_name": "Jammie",
+        "last_name": "Jammie-Jammie", 
+        "university": "The Ohio State University",
+        "coast": "East"
+    },
+    { 
+        "id": 16, 
+        "first_name": "Fudge",
+        "coast": "East"
+    },
+    { 
+        "id": 17, 
+        "first_name": "Equine", 
+        "last_name": "Ducklings", 
+        "university": "Indiana University Purdue University Indianapolis",
+        "coast": "West"
+    },
+    { 
+        "id": 18, 
+        "first_name": "Dahistorius", 
+        "last_name": "Lamystorius", 
+        "university": "Utah State University",
+        "coast": "West"
+    },
+    { 
+        "id": 19, 
+        "first_name": "Ewonkoniad", 
+        "last_name": "Sigourneth JuniorStein", 
+        "university": "Oklahoma State University",
+        "coast": "West"
+    },
+
+    { 
+        "id": 20, 
+        "first_name": "Eqqsnuizitine", 
+        "last_name": "Buble-Schwinslow ", 
+        "university": "University of Nabraska",
+        "coast": "West"
+    },
+    { 
+        "id": 21, 
+        "first_name": "Huka'lakanaka", 
+        "last_name": "Hakanakaheekalucka'hukahkafaka", 
+        "university": "University of Hawaii",
+        "coast": "West"
+    },
+    { 
+        "id": 22, 
+        "first_name": "King Prince", 
+        "last_name": "Chambermaid", 
+        "university": "Baylor University",
+        "coast": "West"
+    },
+    { 
+        "id": 23, 
+        "first_name": "Ladennifer", 
+        "last_name": "Jadaniston", 
+        "university": "University of Colorado",
+        "coast": "West"
+    },
+    { 
+        "id": 24, 
+        "first_name": "Ladadadaladadadadada", 
+        "last_name": "Dala-Dadaladaladalada", 
+        "university": "University of Arizona",
+        "coast": "West"
+    },
+    { 
+        "id": 25, 
+        "first_name": "Harvard", 
+        "last_name": "University", 
+        "university": "DeVry University",
+        "coast": "West"
+    },
+    { 
+        "id": 26, 
+        "first_name": "Morse", 
+        "last_name": "Code", 
+        "university": "Army Navy Surplus Store",
+        "coast": "West"
+    },
+    { 
+        "id": 27, 
+        "first_name": "Wingdings", 
+        "university": "Online Classes",
+        "coast": "West"
+    },
+    { 
+        "id": 28, 
+        "first_name": "Firstname", 
+        "last_name": "Lastname", 
+        "university": "College University",
+        "coast": "West"
+    },
+    { 
+        "id": 29, 
+        "first_name": "God", 
+        "university": "Home Schooled",
+        "coast": "West"
+    },
+    { 
+        "id": 30, 
+        "first_name": "Squeeeeeeeeeeps", 
+        "university": "Santa Monica College",
+        "coast": "West"
+    },
+    { 
+        "id": 31,
+        "first_name": "Benedict", 
+        "last_name": "Cumberbatch", 
+        "university": "Oxford University",
+        "coast": "West"
+    },
+    { 
+        "id": 32, 
+        "first_name": "A.A. Ron", 
+        "last_name": "Balakay", 
+        "university": "Morehouse College",
+        "coast": "West"
+    }
+]
