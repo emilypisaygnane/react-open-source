@@ -1,20 +1,23 @@
 import { Link, Route, Switch } from 'react-router-dom';
 import './App.css';
-import 
+import { DataTable } from './components/Table/DataTable';
+import { Chart } from './components/Chart/Chart';
 
 function App() {
   return (
     <div className="App">
       <nav>
-        <Link to="/table">Table</Link>
-        <Link to="/charts">Charts</Link>
+        <Link to="/table">Player Table</Link>
+        <Link to="/charts">Player Charts</Link>
       </nav>
       <Switch>
         <Route path="/table">
-          <h1>Table Libary</h1>
+          <h1>Player Table</h1>
+          <DataTable />
         </Route>
         <Route path="/charts">
-          <h1>Chart Library</h1>
+          <h1>Player Chart</h1>
+          <Chart />
         </Route>
       </Switch>
     </div>
